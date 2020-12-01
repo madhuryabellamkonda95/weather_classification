@@ -8,18 +8,18 @@ number of classes: 4
 -> Sunrise
 # accuracies
 
-        TRANSFER LEARNING ALGORITHMS	           ACCURACIES
+        TRANSFER LEARNING ALGORITHMS	           
     
     
-   1     VGG16	                                   TRAINING:        88.4
+   1     VGG16	                                   TRAINING:     88.4
                                                    VALIDATION:   88.0
 
       
    
    2     VGG19	 
-                                                   TRAINING:           87.9
+                                                   TRAINING:        87.9
                                                    VALIDATION:      89.7
     
    3     RESNET-50	
-                                                   TRAINING:           99.5
+                                                   TRAINING:         99.5
                                                    VALIDATION:       99.0
