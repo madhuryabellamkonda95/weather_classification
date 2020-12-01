@@ -1,6 +1,7 @@
 # weather_classification:
 
-Used transfer learning algorithms(vgg16,vgg19,resnet-50) to classify type of weather
+Used transfer learning algorithms(vgg16,vgg19,resnet-50) to classify type of weather.
+
 number of classes: 4
 -> cloudy
 -> Rain
